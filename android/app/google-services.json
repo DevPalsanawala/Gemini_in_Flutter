@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573690933306",
+    "project_id": "my-app-f80df",
+    "storage_bucket": "my-app-f80df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573690933306:android:ac256da50b11e1cc168503",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0hBIrNvF5UW_GioRgNNRF3sVkQ2igfzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
